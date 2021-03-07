@@ -3,3 +3,5 @@ andres
 como estas
 cambios II
 cambio 3
+
+vamos a aprender como hacer un checkout
